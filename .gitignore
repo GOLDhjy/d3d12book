@@ -45,3 +45,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.obj
+*.tlog
+*.idb
+*.ilk
+Chapter 6 Drawing in Direct3D/Box/.vs/Box/v16/.suo
+Chapter 6 Drawing in Direct3D/Box/.vs/Box/v16/Browse.VC.db
+Chapter 6 Drawing in Direct3D/Box/.vs/Box/v16/ipch/AutoPCH/70fcd4a71cbd2232/D3DAPP.ipch
+Chapter 6 Drawing in Direct3D/Box/Box.vcxproj
+Chapter 6 Drawing in Direct3D/Box/x64/Debug/Box.exe
+Chapter 6 Drawing in Direct3D/Box/x64/Debug/Box.log
+Chapter 6 Drawing in Direct3D/Box/x64/Debug/Box.pdb
+Chapter 6 Drawing in Direct3D/Box/x64/Debug/vc142.pdb
+*.vcxproj
+Chapter 6 Drawing in Direct3D/Box/Box.vcxproj
